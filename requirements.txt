@@ -1,7 +1,0 @@
-rich
-pytz
-requests
-licensing
-socialagent
-prompt_toolkit
-cryptography
